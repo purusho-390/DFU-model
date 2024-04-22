@@ -8,6 +8,8 @@ This project aims to develop a deep learning model for the detection of diabetic
 
 We utilized a dataset consisting of medical images of diabetic foot ulcers, collected from various medical institutions. The dataset includes images of varying resolutions and qualities, annotated by medical professionals for ulcer presence and severity.
 
+https://www.kaggle.com/datasets/purushomohan/dfu-wagners-classification
+
 ## Methodology
 
 ### Preprocessing
